@@ -18,7 +18,7 @@ You'll be reading, running, diagramming and documenting code.  No writing code t
 ## Learning Objectives
 
 * Dependency Injection
-* App/Component Architecture
+* App/Component Folder Structure
 * Source code vs. Build-time vs. Run-time
 * Core app vs environment
 * Reading & analyzing modular projects
