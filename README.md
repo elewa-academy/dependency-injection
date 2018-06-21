@@ -112,7 +112,7 @@ The finished product for this project will be a repo with 3 branches:
   * The source code
 3. Get and give at least one code review for this project.
 
-([Example structure here](https://github.com/elewa-academy/Modular-Design/tree/master/02-dependency-injection/project-branch-structure))
+([Example structure here](./project-branch-structure))
 
 ### Build-Time Diagram
 
@@ -129,8 +129,8 @@ You can see an example [here](https://github.com/elewa-student/Analyzing-Archite
 
 Project resources:
 * [MVC_list Demo](https://github.com/elewa-student/Analyzing-Architecture/tree/master)
-* [Code to Analyze](https://github.com/elewa-academy/Modular-Design/tree/master/02-dependency-injection/1-app-components-architecture) 
-* [MVC-LH Architecture](https://github.com/elewa-academy/General-Resources/tree/master/application-design/mvc-lh)
+* [Code to Analyze](./1-app-component-architecture) 
+* [MVC-LH Architecture](https://github.com/elewa-academy/mvc-lh)
 
 
 Dependency Injection:
